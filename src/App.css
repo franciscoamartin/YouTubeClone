@@ -1,4 +1,4 @@
-* {
+/* * {
   margin: 0;
 }
 
@@ -12,4 +12,10 @@ body {
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier";
+} */
+
+.app_page{
+  display: flex;
+  
 }
+
